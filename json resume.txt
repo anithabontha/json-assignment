@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "theme": "stackoverflow"
+  },
+"basics": {
+    "name": "Anitha Bontha",
+    "email": "anitha.a.b@gmail.com",
+    "summary": "fsd",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "anithabontha",
+        "url": "https://github.com/anithabontha"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "anitha Anitha",
+        "url": "https://www.linkedin.com/in/anitha-anitha-b2224b36"
+      }
+     
+      
+  
+    ]
+  },
+  "education": [
+    {
+      "studyType": "Bachelor of Technology in Electronics and communications",
+      "institution": "k l u, Guntur",
+      "startDate": "2000-07",
+      "endDate": "2004-05"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Crypto security for digital radio",
+      "description": "To provide security for digital radio for defense people "
+    
+    }
+  ],
+  "skills": [
+  
+    {
+      "name": "Frontend",
+      "keywords": [
+        "JavaScript",
+        "jQuery",
+        "HTML",
+        "CSS"]
+    }
+      
+  
+    
+  
+]
+}
+
+
+
+  
+
+    
+ 
+  
+  
+  
+
+  
